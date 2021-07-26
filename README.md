@@ -1,4 +1,4 @@
-# Streams Extractor Bot
+## Tharamaana Streams Extractor
 
 <p align="center">
   <a href="https://www.python.org">
@@ -33,6 +33,6 @@ python3 main.py
 
 ## Credits
 
-## [🤖[Tharamaana Team](https://telegram.me/tharamaanateambot)
+## 🤖[Tharamaana Team](https://telegram.me/tharamaanateambot)
 
 
