@@ -1,9 +1,5 @@
 ## Tharamaana Streams Extractor
 
-<p align="center">
-  <a href="https://www.python.org">
-    <img src="http://ForTheBadge.com/images/badges/made-with-python.svg">
-
 #### This Bot can extract audios and subtitles from video files.
 #### Send any valid video file and the bot shows you available streams in it that can be extracted!!
 
@@ -33,6 +29,6 @@ python3 main.py
 
 ## Credits
 
-## 🤖[Tharamaana Team](https://telegram.me/tharamaanateambot)
+## [❤️ Tharamaana Team ❤️](https://telegram.me/tharamaanateambot)
 
 
