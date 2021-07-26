@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# @trojanzhex
+# @tharamaanateambot
 
 
 from pyrogram import filters
@@ -24,7 +24,7 @@ async def cb_handler(client, query):
         keyboard = InlineKeyboardMarkup([
             [InlineKeyboardButton("HELP", callback_data="help_data"),
                 InlineKeyboardButton("ABOUT", callback_data="about_data")],
-            [InlineKeyboardButton("⭕️ JOIN OUR CHANNEL ⭕️", url="https://t.me/TroJanzHEX")]
+            [InlineKeyboardButton("⭕️ JOIN OUR CHANNEL ⭕️", url="https://t.me/tharamaanamovies")]
         ])
 
         await query.message.edit_text(
@@ -40,7 +40,7 @@ async def cb_handler(client, query):
         keyboard = InlineKeyboardMarkup([
             [InlineKeyboardButton("BACK", callback_data="start_data"),
                 InlineKeyboardButton("ABOUT", callback_data="about_data")],
-            [InlineKeyboardButton("⭕️ SUPPORT ⭕️", url="https://t.me/TroJanzSupport")]
+            [InlineKeyboardButton("⭕️ SUPPORT ⭕️", url="https://t.me/tharamaanateambot")]
         ])
 
         await query.message.edit_text(
@@ -56,7 +56,7 @@ async def cb_handler(client, query):
         keyboard = InlineKeyboardMarkup([
             [InlineKeyboardButton("BACK", callback_data="help_data"),
                 InlineKeyboardButton("START", callback_data="start_data")],
-            [InlineKeyboardButton("SOURCE CODE", url="https://github.com/TroJanzHEX/Streams-Extractor")]
+            [InlineKeyboardButton("Share Your Friends", url="https://telegram.me/share/url?url=Join%20this%20%28%40tharamaanaextractorbot%29%20to%20extract%20sound%20and%20subtitles%20from%20the%20movie%2E")]
         ])
 
         await query.message.edit_text(
