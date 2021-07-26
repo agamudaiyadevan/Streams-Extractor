@@ -33,6 +33,6 @@ python3 main.py
 
 ## Credits
 
-[🤖[Tharamaana Team](https://telegram.me/tharamaanateambot)]
+## [🤖[Tharamaana Team](https://telegram.me/tharamaanateambot)
 
 
