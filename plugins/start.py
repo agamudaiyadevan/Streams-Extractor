@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# @trojanzhex
+# @tharamaanaadmin
 
 
 from pyrogram import filters
@@ -24,7 +24,7 @@ async def start(client, message):
                 ],
                 [
                     InlineKeyboardButton(
-                        "⭕️ JOIN OUR CHANNEL ⭕️", url="https://t.me/TroJanzHEX")
+                        "⭕️ JOIN OUR CHANNEL ⭕️", url="https://t.me/tharamaanamovies")
                 ]
             ]
         ),
@@ -45,7 +45,7 @@ async def help(client, message):
                 ],
                 [
                     InlineKeyboardButton(
-                        "⭕️ SUPPORT ⭕️", url="https://t.me/TroJanzSupport")
+                        "⭕️ SUPPORT ⭕️", url="https://t.me/tharamaanateambot")
                 ]
             ]
         ),
@@ -66,7 +66,7 @@ async def about(client, message):
                 ],
                 [
                     InlineKeyboardButton(
-                        "SOURCE CODE", url="https://github.com/TroJanzHEX/Streams-Extractor")
+                        "Share Your Friends", url="https://telegram.me/share/url?url=Join%20this%20%28%40tharamaanaextractorbot%29%20to%20extract%20sound%20and%20subtitles%20from%20the%20movie%2E")
                 ]
             ]
         ),
